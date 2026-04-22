@@ -46,7 +46,7 @@ Focus: System Design & API
 
 ### Who am I?
 
-Backend Developer focused on building scalable systems using **Node.js (NestJS, Express)**.
+Full-stack Developer focused on building scalable systems using **Node.js (NestJS, Express)**.
 
 I have experience working on real-world projects involving:
 
