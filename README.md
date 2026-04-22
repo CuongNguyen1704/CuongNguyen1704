@@ -6,17 +6,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=200&section=header&text=Nguyễn%20Mạnh%20Cường&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=200&section=header&text=Nguyễn%20Mạnh%20Cường&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 </div>
+
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=600&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+(NestJS+%7C+Express);RESTful+API+%26+System+Design;Learning+Scalable+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=600&color=00FFFF&center=true&vCenter=true&width=700&lines=Full-stack+Developer;TypeScript+%7C+Node.js+(NestJS+%7C+Express)+%26+React.js;RESTful+API+%26+Modern+Frontend;Building+Scalable+Web+Applications" />
 
 </div>
+
 
 ---
 
